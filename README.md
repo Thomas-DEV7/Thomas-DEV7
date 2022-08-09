@@ -16,7 +16,7 @@
   <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thomas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Thomas-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="right" alt="Thomas-foto" height="150" style="border-radius:50px;" src="http://thomasdev7.xyz/projeto2/public/img/perfil.jpg" />
+<img align="right" alt="Thomas-foto" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79283781?s=400&u=b0ab066d91c86e75f682d3e0273e5422c5e62a9b&v=4" />
 </div>
 
  <div class="">
