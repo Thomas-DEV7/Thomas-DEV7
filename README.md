@@ -13,7 +13,7 @@
 
 ## CONTACTS
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/email+gmail+google+internet+message+icon-1320192780259745073.png" />][Gmail]
-[<img align="left" alt="Discord" width="40px" src="https://icons-for-free.com/iconfiles/png/512/discord-1329858313674015658.png" />][Discord]
+[<img align="left" alt="Discord" width="40px" src="https://icons-for-free.com/iconfiles/png/512/discord-1329858313674015658.png" />][linkedin]
 [<img align="left" alt="Facebook" width="40px" src="https://icons-for-free.com/linkedin+square+icon-1320168278649782468/" />][Skype]
 
 
@@ -24,7 +24,7 @@
 
 [Gmail]: mailto:thomas.felip16@gmail.com
 [Skype]: https://join.skype.com/invite/
-[Discord]: https://www.linkedin.com/in/thomas-felipe-a9b773147/
+[linkedin]: https://www.linkedin.com/in/thomas-felipe-a9b773147/
 
 <!--
 **Thomas Bastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
