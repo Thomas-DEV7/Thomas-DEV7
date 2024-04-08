@@ -1,6 +1,6 @@
-### HELLO HELLO! 👋 Eu sou Thomas Felipe Bastos!!!
+### HELLO, 👋 Eu sou Thomas Felipe Bastos!!!
  ##
-
+# Aviso: pouca atividade por aqui, pois estou trabalhando com GitLab. #
 - 🎒 Cursando Análise e Desenvolvimento de Sistemas (UNISANTOS | 2022-2025)
 - 🌱 Formado no Ensino Médio com Habilitação em Desenvolvimento de Sistemas (Etec Adolpho Berezin | 2020-2022)
 - 😄 18 years
