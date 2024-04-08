@@ -20,10 +20,10 @@
  <img align="center" alt="Thomas-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
          <img align="center" alt="Thomas-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
-<img align="right" alt="Thomas-pic" height="150" style="border-radius:50px;" 
+<!-- <img align="right" alt="Thomas-pic" height="150" style="border-radius:50px;" 
      src="[https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4Fu6Mz0uKCIAX8piQYC&_nc_ht=scontent.fssz2-1.fna&oh=00_AfCW3DojsuthA-TNF2MRjsyloEvk8pdbaiX1516pKEeQQw&oe=63E8666A](https://avatars.githubusercontent.com/u/79283781?v=4)"
 
-
+ -->
   ##
  <div >
 <a href="https://www.instagram.com/_thomas013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
