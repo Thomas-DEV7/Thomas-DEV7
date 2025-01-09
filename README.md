@@ -1,7 +1,7 @@
 ### Olá, 👋 Eu sou Thomas Felipe Bastos!
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas na UNISANTOS (2022-2025)  
-🎓 Formado no Ensino Médio com Habilitação em Desenvolvimento de Sistemas na Etec Adolpho Berezin (2020-2022)  
+🎓 Análise e Desenvolvimento de Sistemas na UNISANTOS (2022-2025)  
+🎓 Desenvolvimento de Sistemas na Etec Adolpho Berezin (2020-2022)  
  
 
 #### Aviso: Pouca atividade por aqui, pois estou trabalhando com GitLab. (TRABALHANDO EM REPOSITORIOS PRIVADOS)
