@@ -8,7 +8,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-DEV7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-DEV7&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-DEV7&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
 ### Linguagens e Ferramentas:
