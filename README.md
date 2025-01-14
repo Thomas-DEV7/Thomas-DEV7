@@ -4,7 +4,7 @@
 🎓 Desenvolvimento de Sistemas na Etec Adolpho Berezin (2020-2022)  
  
 
-#### Aviso: Pouca atividade por aqui, pois estou trabalhando com GitLab. (TRABALHANDO EM REPOSITORIOS PRIVADOS)
+### Aviso: Pouca atividade por aqui, pois estou trabalhando com GitLab. (TRABALHANDO EM REPOSITORIOS PRIVADOS)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-DEV7&theme=dark&show_icons=true&"/>
