@@ -1,6 +1,6 @@
 ### Olá, 👋 Eu sou Thomas Felipe Bastos!
 
-🎓 Análise e Desenvolvimento de Sistemas na UNISANTOS (2022-2025)  
+🎓 Análise e Desenvolvimento de Sistemas na UNISANTOS (2023-2025)  
 🎓 Desenvolvimento de Sistemas na Etec Adolpho Berezin (2020-2022)  
  
 
