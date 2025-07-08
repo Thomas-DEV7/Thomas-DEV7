@@ -10,7 +10,7 @@
 
 ## 🚀 Atividade Profissional
 > 🔒 **Nota sobre atividade no GitHub:**  
-> Atualmente minha produção principal está em repositórios privados do **GitLab** devido a compromissos profissionais. Estou migrando progressivamente projetos autorizados para esta plataforma.
+> Atualmente minha produção principal está em repositórios privados do **Azure** devido a compromissos profissionais. Estou migrando progressivamente projetos autorizados para esta plataforma.
 
 ---
 
