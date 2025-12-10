@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://github.com/thomasbastos-04" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR%20GITHUB%20NOVO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar GitHub novo">
+  </a>
+</p>
+
+> ⚠️ **Nota importante:**  
+> Perdi o acesso à minha conta anterior do GitHub e, a partir de agora, estou utilizando este novo perfil:  
+> 👉 [github.com/thomasbastos-04](https://github.com/thomasbastos-04)
+
+---
+
 # Thomas Felipe Bastos | Desenvolvedor Full-Stack
 
 ## 📚 Formação Acadêmica
@@ -16,8 +28,8 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thomas-DEV7&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-DEV7&layout=compact&langs_count=8&theme=dark&hide_border=true&exclude_repo=private-repo"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thomasbastos-04&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbastos-04&layout=compact&langs_count=8&theme=dark&hide_border=true&exclude_repo=private-repo"/>
 </div>
 
 ---
@@ -59,5 +71,4 @@
 
 ## 📬 Contato Profissional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Bastos-0A66C2?logo=linkedin)](https://www.linkedin.com/in/thomasbastos)
-[![Gmail](https://img.shields.io/badge/Gmail-thomas.felip16@gmail.com-EA4335?logo=gmail)](mailto:thomas.felip16@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-_thomas013-E4405F?logo=instagram)](https://www.instagram.com/_thomas013/)
+[![Gmail](https://img.shields.io/badge/Gmail-thoma)]()
